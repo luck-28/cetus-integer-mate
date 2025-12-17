@@ -9,4 +9,4 @@ edition = "2024"
 [dependencies]
 
 [addresses]
-integer_mate = "0x714a63a0dba6da4f017b42d5d0fb78867f18bcde904868e51d951a5a6f5b7f57"
+cetus_integer_mate = "0x714a63a0dba6da4f017b42d5d0fb78867f18bcde904868e51d951a5a6f5b7f57"
